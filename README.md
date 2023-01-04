@@ -3,7 +3,7 @@
 [![CI](https://github.com/geerlingguy/docker-centos8-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geerlingguy/docker-centos8-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-centos8-ansible)](https://hub.docker.com/r/geerlingguy/docker-centos8-ansible/)
 
 CentOS 8 Docker container for Ansible playbook and role testing.
-
+####################
 ## Tags
 
   - `latest`: Latest stable version of Ansible.
