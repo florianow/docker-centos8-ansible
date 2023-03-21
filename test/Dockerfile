@@ -10,3 +10,4 @@ COPY tsconfig.json ./
 RUN npm install
 
 CMD [ "npm", "start" ]
+2ßßßß
