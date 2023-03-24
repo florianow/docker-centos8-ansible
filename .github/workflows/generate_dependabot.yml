@@ -18,4 +18,4 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with: 
-          commit-message: "chore:"
+          commit-message: "chore: [create-pull-request] automated dependabot.yml from template"
