@@ -8,6 +8,6 @@ updates:
   - package-ecosystem: "docker" # See documentation for possible values
     directory: "/test/" # Location of package manifests
     commit-message:
-    prefix: "chore:"
+      prefix: "chore:"
     schedule:
       interval: "daily"
