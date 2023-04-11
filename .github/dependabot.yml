@@ -20,3 +20,51 @@ updates:
       prefix: 'chore:'
     schedule:
       interval: daily
+  - package-ecosystem: docker
+    directory: /test2/test1234
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test2/test1234/test2345
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test2/test1234/test2345/ewewe
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test2/test444
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test4
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test5
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test5/test
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
+  - package-ecosystem: docker
+    directory: /test6
+    commit-message:
+      prefix: 'chore:'
+    schedule:
+      interval: daily
